@@ -13,9 +13,9 @@ import java.util.List;
 public class GestorArchivos {
 
     // Clase GestorArchivos para manejar la lectura y escritura de datos en archivos CSV.
-    private final String RUTA_ARCHIVO_PELICULAS = "peliculas.csv";
-    private final String RUTA_ARCHIVO_SERIES = "series.csv";
-    private final String RUTA_ARCHIVO_DOCUMENTALES = "documentales.csv";
+    private final String RUTA_ARCHIVO_PELICULAS = "poo_unidad_4/peliculas.csv";
+    private final String RUTA_ARCHIVO_SERIES = "poo_unidad_4/series.csv";
+    private final String RUTA_ARCHIVO_DOCUMENTALES = "poo_unidad_4/documentales.csv";
 
     // Métodos para guardar Películas.
     public void guardarPeliculas(List<Pelicula> peliculas) {
