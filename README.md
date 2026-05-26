@@ -18,3 +18,5 @@ Descripción de la actividad:
 **Estructura del proyecto:**
 
 <img width="1747" height="1258" alt="1" src="https://github.com/user-attachments/assets/46adaddc-312b-4ccf-a876-495b633cb000" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ef9323f8-16df-4e3c-9b44-8038378af998" />
