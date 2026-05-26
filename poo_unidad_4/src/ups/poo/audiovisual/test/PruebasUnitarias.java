@@ -7,6 +7,7 @@ import ups.poo.audiovisual.modelos.Actor;
 import ups.poo.audiovisual.modelos.Documental;
 import ups.poo.audiovisual.modelos.Investigador;
 // Al clonar de GitHub, es posible que el IDE no reconozca los paquetes importados de pruebas. 
+// Ejecutar primero el programa y luego habilitar los test para evitar que sobreescriba los archivos.
 // En ese caso, selecionar source actions y Genetate o Enable Tests.
 // Luego, ejecutar las pruebas desde el menú de Run, seleccionando la clase PruebasUnitarias.
 import static org.junit.Assert.assertEquals;
